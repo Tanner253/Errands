@@ -87,7 +87,7 @@ Unit testing is included in the Errands/FrontendTesting project using the xUnit 
 
 ---------------------------
 ## Data Model
-
+![assets/high.lvl.flow.chart.png](Current flow chart high-level)
 ### Overall Project Schema
 
 ---------------------------
