@@ -30,7 +30,7 @@ Microsoft Visual Studio Community 2019
 - xUnit
 - Bootstrap
 - Azure
-- Parallel Dots API
+
 
 ---------------------------------
 
@@ -66,7 +66,7 @@ Unit testing is included in the Errands/FrontendTesting project using the xUnit 
 ---------------------------------
 
 ## Usage
-***[Provide some images of your app with brief description as title]***
+
 
 ### Overview of Recent Errands
 
@@ -82,12 +82,12 @@ Unit testing is included in the Errands/FrontendTesting project using the xUnit 
 
 ---------------------------
 ## Data Flow (Frontend, Backend, REST API)
-***[Add a clean and clear explanation of what the data flow is. Walk me through it.]***
-![Data Flow Diagram](/assets/img/Flowchart.png)
+//Describe
+![Data Flow Diagram](/assets/high.lvl.flow.chart.png)
 
 ---------------------------
 ## Data Model
-
+![user model](/assets/user.data.table.png)
 ### Overall Project Schema
 
 ---------------------------
