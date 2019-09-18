@@ -30,7 +30,7 @@ Microsoft Visual Studio Community 2019
 - xUnit
 - Bootstrap
 - Azure
-- Parallel Dots API
+
 
 ---------------------------------
 
