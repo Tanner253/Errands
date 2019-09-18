@@ -83,11 +83,11 @@ Unit testing is included in the Errands/FrontendTesting project using the xUnit 
 ---------------------------
 ## Data Flow (Frontend, Backend, REST API)
 ***[Add a clean and clear explanation of what the data flow is. Walk me through it.]***
-![Data Flow Diagram](/assets/img/Flowchart.png)
+![Data Flow Diagram](/assets/high.lvl.flow.chart.png)
 
 ---------------------------
 ## Data Model
-![assets/high.lvl.flow.chart.png](Current flow chart high-level)
+![/assets/high.lvl.flow.chart.png](Current flow chart high-level)
 ### Overall Project Schema
 
 ---------------------------
