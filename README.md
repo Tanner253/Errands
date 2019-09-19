@@ -45,7 +45,7 @@ Initial update to repo 9/18/19
 
 Clone this repository to your local machine.
 ```
-$ git clone https://github.com/
+$ git clone https://github.com/Tanner253/Errands.git
 ```
 Once downloaded, you can either use the dotnet CLI utilities or Visual Studio 2017 (or greater) to build the web application. The solution file is located in the root directory.
 ```
