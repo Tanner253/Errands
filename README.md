@@ -82,8 +82,9 @@ Unit testing is included in the Errands/FrontendTesting project using the xUnit 
 
 ---------------------------
 ## Data Flow (Frontend, Backend, REST API)
-//Describe
 ![Data Flow Diagram](/assets/FlowChart.JPG)
+
+After registering and logging in all users will start as requestors. you can click the button in the top left to switch to a runner, which will make your profile available for view by users in the area. if you are a runner, you must keep app open, and wait for someone to call you with a request for an errand. you can go online / offline whenever you feel like it. if the runner is offline or switched back into requestor, your presence will be removed from the map and view of requestors.
 
 ---------------------------
 ## Data Model
