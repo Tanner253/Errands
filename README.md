@@ -87,7 +87,9 @@ Unit testing is included in the Errands/FrontendTesting project using the xUnit 
 
 ---------------------------
 ## Data Model
-![user model](/assets/user.data.table.png)
+
+![user model](/assets/DataTableUser.JPG)
+![user model](/assets/SchemaAttempt.JPG)
 ### Overall Project Schema
 
 ---------------------------
