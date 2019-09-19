@@ -95,15 +95,3 @@ After registering and logging in all users will start as requestors. you can cli
 
 ---------------------------
 ## Model Properties and Requirements
-
-### User
-
-| Parameter | Type | Required |
-| --- | --- | --- |
-| ID  | int | YES |
-| FirstName | string | YES |
-| LastName | string | YES |
-| PhoneNumber | string | YES |
-| Picture | img jpeg/png | NO |
-| Location | string | YES |
-| RegisterDate | date/time object | YES |
