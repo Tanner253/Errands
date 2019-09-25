@@ -47,11 +47,7 @@
         <input asp-for="ConfirmPassword" />
         <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
     </div>
-    <div class="FormElements">
-        <label asp-for="LoveAnimals"></label>
-        @Html.CheckBox("LoveAnimals", "True")
-        <span asp-validation-for="LoveAnimals" class="text-danger"></span>
-    </div>
+    
     <button type="submit" value="Register">Register User</button>
 </form>
 
