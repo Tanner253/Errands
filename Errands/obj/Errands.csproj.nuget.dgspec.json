@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\perci\\source\\Errands\\Errands\\Errands\\Errands.csproj": {}
+    "C:\\Users\\perci\\source\\Errands\\Errands\\Errands.csproj": {}
   },
   "projects": {
-    "C:\\Users\\perci\\source\\Errands\\Errands\\Errands\\Errands.csproj": {
+    "C:\\Users\\perci\\source\\Errands\\Errands\\Errands.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\perci\\source\\Errands\\Errands\\Errands\\Errands.csproj",
+        "projectUniqueName": "C:\\Users\\perci\\source\\Errands\\Errands\\Errands.csproj",
         "projectName": "Errands",
-        "projectPath": "C:\\Users\\perci\\source\\Errands\\Errands\\Errands\\Errands.csproj",
+        "projectPath": "C:\\Users\\perci\\source\\Errands\\Errands\\Errands.csproj",
         "packagesPath": "C:\\Users\\perci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\perci\\source\\Errands\\Errands\\Errands\\obj\\",
+        "outputPath": "C:\\Users\\perci\\source\\Errands\\Errands\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
             }
           },
           "imports": [
