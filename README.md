@@ -7,8 +7,7 @@ User Stories -----    https://trello.com/b/0OV43c3P/errands
 ---------------------------------
 //Coming soon
 ## We are deployed on Azure!
-
-[project url here]
+...
 
 ---------------------------------
 ## Web Application
