@@ -40,7 +40,7 @@ namespace Errands
                .AddDefaultTokenProviders();
 
             services.AddDbContext<ApplicationDbContext>(options =>
-           options.UseSqlServer(Configuration.GetConnectionString("IdentityDefault")));
+           options.UseSqlServer(Configuration.GetConnectionString("IdentityDefault"))).AddScoped(p => new ApplicationDbContext(p.GetService<DbContextOptions<ApplicationDbContext>>()));
 
 
         }

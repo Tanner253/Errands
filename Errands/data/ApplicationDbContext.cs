@@ -13,12 +13,12 @@ namespace Errands.data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 
-
         }
         public ApplicationDbContext()
         {
 
         }
+
     }
     
     
