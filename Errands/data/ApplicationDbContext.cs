@@ -14,10 +14,7 @@ namespace Errands.data
         {
 
         }
-        public ApplicationDbContext()
-        {
-
-        }
+     
 
     }
     
