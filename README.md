@@ -10,6 +10,8 @@ User Stories -----    https://trello.com/b/0OV43c3P/errands
 ## We are deployed on Azure!
 ...
 #Development on hold
+
+### this is a project i would really like to keep working on, i need to get into mobile development and learn how to use dynamic maps with location. also need to sort out DB
 ---------------------------------
 ## Web Application
 This web application aims to solve the problems with food delivery services. Errands will be an application that connects two users (Errand runner, and Errand Requestor) to deliver a product. The Errand requestor can use distance preferences to view available runners in the area. A Requestor can view the profiles of each runner, and choose according to personal criteria of the user. Once the Requestor has chosen a runner, the Requestor can Text/Call an online runner. From there the requestor can ask the runner if they would be willing to go to point A and to the client point B for an agreed upon price. This application will not regulate chatrooms for the users, or prices for the users, that is between the Requestor and the Runner.
